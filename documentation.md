@@ -104,7 +104,7 @@ Adding YouTube videos to Odyssey is simple, you can insert the video url:
 Example:
 
 ~~~md
-!{400}{300}(https://www.youtube.com/embed/2r1BzXUbK78)
+!{400}{300}(https://www.youtube.com/watch?v=2r1BzXUbK78)
 ~~~
 
 ### Add popup for Marker
