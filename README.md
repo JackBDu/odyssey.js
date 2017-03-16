@@ -1,3 +1,7 @@
+# About the Fork
+
+This repo is a fork from CartoDB/odyssey.js. I have added some useful features, some of which can be found [here](http://nyushanghai.github.io/odyssey.js/documentation/).
+
 ## About
 
 The odyssey.js library is being developed to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. The library is open source and freely available to use in your projects. It is initially being built to work with most modern browsers.
