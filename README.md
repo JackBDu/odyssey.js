@@ -1,6 +1,6 @@
 # About the Fork
 
-This repo is a fork from CartoDB/odyssey.js. I have added some useful features, some of which can be found [here](http://nyushanghai.github.io/odyssey.js/documentation/).
+This repo is a fork from [CartoDB/odyssey.js](https://github.com/CartoDB/odyssey.js). I have added some useful features, some of which can be found [here](http://nyushanghai.github.io/odyssey.js/documentation/).
 
 ## About
 
